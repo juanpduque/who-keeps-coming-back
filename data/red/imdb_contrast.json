@@ -1,0 +1,1168 @@
+{
+  "dumpRunDate": "2026-11-14",
+  "source": "https://datasets.imdbws.com/",
+  "films": 28648,
+  "basics": {
+    "found": 28644,
+    "missing": 4,
+    "imdbMarkedAdult": 36,
+    "imdbGenreHorror": 24503,
+    "imdbGenreNotHorror": 4141,
+    "titleTypes": {
+      "movie": 19422,
+      "short": 5280,
+      "video": 2522,
+      "tvMovie": 916,
+      "tvEpisode": 329,
+      "tvSeries": 65,
+      "tvMiniSeries": 47,
+      "tvShort": 41,
+      "tvSpecial": 11,
+      "videoGame": 11,
+      "missing_from_basics": 4
+    }
+  },
+  "directors": {
+    "filmsCompared": 28516,
+    "filmsAllNamesFound": 28315,
+    "nameRecallExact": 0.9936,
+    "nameRecallClose": 0.9949,
+    "names": 34599
+  },
+  "cast": {
+    "filmsCompared": 26688,
+    "filmsAllNamesFound": 11126,
+    "filmsNoNameOverlap": 437,
+    "nameRecallExact": 0.7981,
+    "nameRecallClose": 0.8082,
+    "names": 197354,
+    "firstBilledExact": 0.6579,
+    "firstBilledClose": 0.6659,
+    "medianTmdbCast": 8.0,
+    "medianImdbPrincipalCast": 10.0
+  },
+  "poloniaKirkendall": {
+    "people": {
+      "mark polonia": [
+        {
+          "nconst": "nm0689789",
+          "name": "Mark Polonia",
+          "birthYear": 1968,
+          "deathYear": null,
+          "profession": "director,editor,actor"
+        }
+      ],
+      "jeff kirkendall": [
+        {
+          "nconst": "nm2386198",
+          "name": "Jeff Kirkendall",
+          "birthYear": null,
+          "deathYear": null,
+          "profession": "actor,producer,director"
+        }
+      ]
+    },
+    "sharedPrincipalOrCrewTitles": 59,
+    "poloniaDirectedKirkendallActedHorror": 42,
+    "films": [
+      {
+        "tconst": "tt10078894",
+        "title": "Deadly Playthings",
+        "year": 2019,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt12057580",
+        "title": "Amityville Island",
+        "year": 2020,
+        "titleType": "video"
+      },
+      {
+        "tconst": "tt12755232",
+        "title": "Return to Splatter Farm",
+        "year": 2020,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt13132558",
+        "title": "Shark Encounters of the Third Kind",
+        "year": 2020,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt13562408",
+        "title": "Children of Camp Blood",
+        "year": 2020,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt14096132",
+        "title": "Sharkula",
+        "year": 2022,
+        "titleType": "video"
+      },
+      {
+        "tconst": "tt15241706",
+        "title": "Noah's Shark",
+        "year": 2021,
+        "titleType": "video"
+      },
+      {
+        "tconst": "tt16245936",
+        "title": "Sister Krampus",
+        "year": 2021,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt17350138",
+        "title": "R.I.P. Van Winkle",
+        "year": 2022,
+        "titleType": "video"
+      },
+      {
+        "tconst": "tt18454132",
+        "title": "Amityville in Space",
+        "year": 2022,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt21960080",
+        "title": "R.I.P. Van Winkle Part 2",
+        "year": 2023,
+        "titleType": "video"
+      },
+      {
+        "tconst": "tt21960144",
+        "title": "R.I.P. Van Winkle Part 3",
+        "year": 2023,
+        "titleType": "video"
+      },
+      {
+        "tconst": "tt23181112",
+        "title": "Motorboat",
+        "year": 2023,
+        "titleType": "video"
+      },
+      {
+        "tconst": "tt28361249",
+        "title": "Yule Log",
+        "year": 2023,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt28698351",
+        "title": "Revenge of the Empire of the Apes",
+        "year": 2023,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt29720289",
+        "title": "Teddiscare",
+        "year": 2024,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt31248889",
+        "title": "Once Upon a Time in Amityville",
+        "year": 2024,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt31311119",
+        "title": "Jurassic Exorcist",
+        "year": 2024,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt31448377",
+        "title": "Cocaine Werewolf",
+        "year": 2024,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt32267529",
+        "title": "The Final Possession",
+        "year": 2025,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt32525522",
+        "title": "Mummy Shark",
+        "year": 2024,
+        "titleType": "video"
+      },
+      {
+        "tconst": "tt32620864",
+        "title": "Harvest of Eyes",
+        "year": 2025,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt32868746",
+        "title": "The Last Chainsaw Massacre",
+        "year": 2024,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt33481393",
+        "title": "Camp Blood: Clown Shark",
+        "year": 2024,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt33552038",
+        "title": "The Girl Who Wore Yellow Lace",
+        "year": 2024,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt33725086",
+        "title": "Four Nights in Fear Forest",
+        "year": 2025,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt35090088",
+        "title": "Trail Cam Sasquatch",
+        "year": 2025,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt36398612",
+        "title": "Dummy",
+        "year": 2026,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt38110418",
+        "title": "Cape Cod Cthulhu",
+        "year": 2025,
+        "titleType": "video"
+      },
+      {
+        "tconst": "tt38122295",
+        "title": "Robocidal",
+        "year": 2025,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt38590166",
+        "title": "You're All Doomed",
+        "year": 2026,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt39396054",
+        "title": "Amityville Rex",
+        "year": 2026,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt39396063",
+        "title": "Shocktopus",
+        "year": 2026,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt40717554",
+        "title": "Emotional Support Shark",
+        "year": 2026,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt43717336",
+        "title": "Hell of the Blind Dead",
+        "year": 2026,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt4471212",
+        "title": "Amityville Death House",
+        "year": 2015,
+        "titleType": "video"
+      },
+      {
+        "tconst": "tt50165280",
+        "title": "Killer Ants",
+        "year": 2026,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt6068978",
+        "title": "Amityville Exorcism",
+        "year": 2017,
+        "titleType": "video"
+      },
+      {
+        "tconst": "tt7546024",
+        "title": "It Kills",
+        "year": 2017,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt8074328",
+        "title": "Ghost of Camp Blood",
+        "year": 2018,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt8736994",
+        "title": "Frozen Sasquatch",
+        "year": 2018,
+        "titleType": "movie"
+      },
+      {
+        "tconst": "tt8959742",
+        "title": "Alien Surveillance",
+        "year": 2018,
+        "titleType": "movie"
+      }
+    ]
+  },
+  "francoDirectedInGraph": {
+    "count": 44,
+    "imdbMarkedAdult": 1,
+    "samples": [
+      {
+        "tconst": "tt0065569",
+        "title": "Count Dracula",
+        "year": 1970,
+        "imdbTitle": "Count Dracula",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Drama,Horror"
+      },
+      {
+        "tconst": "tt0083156",
+        "title": "Bloody Moon",
+        "year": 1981,
+        "imdbTitle": "Bloody Moon",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Horror,Mystery,Thriller"
+      },
+      {
+        "tconst": "tt0095125",
+        "title": "Faceless",
+        "year": 1988,
+        "imdbTitle": "Faceless",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Horror,Thriller"
+      },
+      {
+        "tconst": "tt0062870",
+        "title": "Marquis de Sade: Justine",
+        "year": 1969,
+        "imdbTitle": "Marquis de Sade's Justine",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Drama"
+      },
+      {
+        "tconst": "tt0064789",
+        "title": "Venus in Furs",
+        "year": 1969,
+        "imdbTitle": "Venus in Furs",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Horror,Thriller"
+      },
+      {
+        "tconst": "tt0073017",
+        "title": "Barbed Wire Dolls",
+        "year": 1976,
+        "imdbTitle": "Barbed Wire Dolls",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Crime,Drama,Horror"
+      },
+      {
+        "tconst": "tt0056040",
+        "title": "The Awful Dr. Orlof",
+        "year": 1962,
+        "imdbTitle": "The Awful Dr. Orlof",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Horror"
+      },
+      {
+        "tconst": "tt0064727",
+        "title": "The Bloody Judge",
+        "year": 1970,
+        "imdbTitle": "Night of the Blood Monster",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Biography,Horror"
+      },
+      {
+        "tconst": "tt0064494",
+        "title": "Eugenie",
+        "year": 1970,
+        "imdbTitle": "Eugenie",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Drama,Horror"
+      },
+      {
+        "tconst": "tt0066104",
+        "title": "She Killed in Ecstasy",
+        "year": 1971,
+        "imdbTitle": "She Killed in Ecstasy",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Drama,Horror"
+      },
+      {
+        "tconst": "tt0086486",
+        "title": "Oasis of the Zombies",
+        "year": 1982,
+        "imdbTitle": "Oasis of the Zombies",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Horror"
+      },
+      {
+        "tconst": "tt0080486",
+        "title": "Devil Hunter",
+        "year": 1980,
+        "imdbTitle": "Devil Hunter",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Horror"
+      }
+    ]
+  },
+  "samples": {
+    "imdbMarkedAdult": [
+      {
+        "tconst": "tt0147996",
+        "title": "Urotsukidōji III: Return of the Overfiend",
+        "year": 1993,
+        "imdbTitle": "Urotsukidoji III: Return of the Overfiend",
+        "titleType": "video",
+        "isAdult": 1,
+        "genres": "Adult,Animation,Fantasy"
+      },
+      {
+        "tconst": "tt0192162",
+        "title": "Angel of Darkness",
+        "year": 1995,
+        "imdbTitle": "Angel of Darkness",
+        "titleType": "video",
+        "isAdult": 1,
+        "genres": "Adult,Fantasy,Horror"
+      },
+      {
+        "tconst": "tt0190480",
+        "title": "Angel of Darkness 2",
+        "year": 1995,
+        "imdbTitle": "Angel of Darkness 2",
+        "titleType": "video",
+        "isAdult": 1,
+        "genres": "Adult,Fantasy,Horror"
+      },
+      {
+        "tconst": "tt0067533",
+        "title": "The Only House in Town",
+        "year": 1971,
+        "imdbTitle": "The Only House in Town",
+        "titleType": "movie",
+        "isAdult": 1,
+        "genres": "Action,Adult,Drama"
+      },
+      {
+        "tconst": "tt9367574",
+        "title": "Hardcore to Horror",
+        "year": 2016,
+        "imdbTitle": "Hardcore to Horror",
+        "titleType": "video",
+        "isAdult": 1,
+        "genres": "Adult,Horror,Short"
+      },
+      {
+        "tconst": "tt1339493",
+        "title": "Rotkäppchen: The Blood of Red Riding Hood",
+        "year": 2009,
+        "imdbTitle": "Rotkäppchen: The Blood of Red Riding Hood",
+        "titleType": "movie",
+        "isAdult": 1,
+        "genres": "Adult,Drama,Fantasy"
+      },
+      {
+        "tconst": "tt3098958",
+        "title": "Video Macumba",
+        "year": 1991,
+        "imdbTitle": "Video Macumba",
+        "titleType": "video",
+        "isAdult": 1,
+        "genres": "Adult,Documentary,Horror"
+      },
+      {
+        "tconst": "tt1906393",
+        "title": "Hyde's Secret Nightmare",
+        "year": 2012,
+        "imdbTitle": "Hyde's Secret Nightmare",
+        "titleType": "movie",
+        "isAdult": 1,
+        "genres": "Adult,Horror"
+      },
+      {
+        "tconst": "tt4747614",
+        "title": "Queen Kong",
+        "year": 2016,
+        "imdbTitle": "Queen Kong",
+        "titleType": "short",
+        "isAdult": 1,
+        "genres": "Adult,Adventure,Fantasy"
+      },
+      {
+        "tconst": "tt5589190",
+        "title": "Flesh Meat Doll(S)",
+        "year": 2016,
+        "imdbTitle": "Flesh Meat Doll(S)",
+        "titleType": "short",
+        "isAdult": 1,
+        "genres": "Adult,Horror,Short"
+      },
+      {
+        "tconst": "tt0455770",
+        "title": "Slaughter Disc",
+        "year": 2005,
+        "imdbTitle": "Slaughter Disc",
+        "titleType": "video",
+        "isAdult": 1,
+        "genres": "Adult,Horror"
+      },
+      {
+        "tconst": "tt0190481",
+        "title": "Angel of Darkness 3",
+        "year": 1996,
+        "imdbTitle": "Angel of Darkness 3: Live Action",
+        "titleType": "video",
+        "isAdult": 1,
+        "genres": "Adult,Fantasy,Horror"
+      }
+    ],
+    "imdbGenreNotHorror": [
+      {
+        "tconst": "tt0947798",
+        "title": "Black Swan",
+        "year": 2010,
+        "imdbTitle": "Black Swan",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Drama,Thriller"
+      },
+      {
+        "tconst": "tt2345759",
+        "title": "The Mummy",
+        "year": 2017,
+        "imdbTitle": "The Mummy",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Action,Adventure,Fantasy"
+      },
+      {
+        "tconst": "tt1588173",
+        "title": "Warm Bodies",
+        "year": 2013,
+        "imdbTitle": "Warm Bodies",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Action,Adventure,Comedy"
+      },
+      {
+        "tconst": "tt0829150",
+        "title": "Dracula Untold",
+        "year": 2014,
+        "imdbTitle": "Dracula Untold",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Action,Drama,Fantasy"
+      },
+      {
+        "tconst": "tt0118971",
+        "title": "The Devil's Advocate",
+        "year": 1997,
+        "imdbTitle": "The Devil's Advocate",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Drama,Fantasy,Mystery"
+      },
+      {
+        "tconst": "tt0338526",
+        "title": "Van Helsing",
+        "year": 2004,
+        "imdbTitle": "Van Helsing",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Action,Adventure,Fantasy"
+      },
+      {
+        "tconst": "tt4094724",
+        "title": "The Purge: Election Year",
+        "year": 2016,
+        "imdbTitle": "The Purge: Election Year",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Action,Adventure,Crime"
+      },
+      {
+        "tconst": "tt0411477",
+        "title": "Hellboy II: The Golden Army",
+        "year": 2008,
+        "imdbTitle": "Hellboy II: The Golden Army",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Action,Adventure,Fantasy"
+      },
+      {
+        "tconst": "tt1189073",
+        "title": "The Skin I Live In",
+        "year": 2011,
+        "imdbTitle": "The Skin I Live In",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Drama,Mystery,Thriller"
+      },
+      {
+        "tconst": "tt10954652",
+        "title": "Old",
+        "year": 2021,
+        "imdbTitle": "Old",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Drama,Mystery,Thriller"
+      },
+      {
+        "tconst": "tt1496025",
+        "title": "Underworld: Awakening",
+        "year": 2012,
+        "imdbTitle": "Underworld: Awakening",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Action,Fantasy,Thriller"
+      },
+      {
+        "tconst": "tt1241317",
+        "title": "Death Note",
+        "year": 2017,
+        "imdbTitle": "Death Note",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Crime,Drama,Fantasy"
+      }
+    ],
+    "directorMismatch": [
+      {
+        "tconst": "tt0082933",
+        "title": "Possession",
+        "year": 1981,
+        "imdbTitle": "Possession",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Drama,Horror",
+        "tmdb": [
+          "Andrzej Zulawski"
+        ],
+        "imdb": [
+          "Andrzej Żuławski"
+        ]
+      },
+      {
+        "tconst": "tt0116654",
+        "title": "The Island of Dr. Moreau",
+        "year": 1996,
+        "imdbTitle": "The Island of Dr. Moreau",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Horror,Sci-Fi,Thriller",
+        "tmdb": [
+          "John Frankenheimer",
+          "Richard Stanley"
+        ],
+        "imdb": [
+          "John Frankenheimer"
+        ]
+      },
+      {
+        "tconst": "tt0144814",
+        "title": "The Rage: Carrie 2",
+        "year": 1999,
+        "imdbTitle": "The Rage: Carrie 2",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Drama,Horror,Sci-Fi",
+        "tmdb": [
+          "Katt Shea",
+          "Robert Mandel"
+        ],
+        "imdb": [
+          "Katt Shea"
+        ]
+      },
+      {
+        "tconst": "tt0472219",
+        "title": "The Batman vs. Dracula",
+        "year": 2005,
+        "imdbTitle": "The Batman vs. Dracula",
+        "titleType": "video",
+        "isAdult": 0,
+        "genres": "Action,Animation,Horror",
+        "tmdb": [
+          "Michael Goguen",
+          "Tae Ho Han",
+          "Seung Eun Kim",
+          "Sam Liu",
+          "Sang Il Sim",
+          "Brandon Vietti"
+        ],
+        "imdb": [
+          "Tae Ho Han",
+          "Sam Liu",
+          "Sang Il Sim",
+          "Michael Goguen"
+        ]
+      },
+      {
+        "tconst": "tt8006374",
+        "title": "Baba Yaga: Terror of the Dark Forest",
+        "year": 2020,
+        "imdbTitle": "Baba Yaga: Terror of the Dark Forest",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Adventure,Fantasy,Horror",
+        "tmdb": [
+          "Svyatoslav Podgaevskiy",
+          "Nathalia Hencker"
+        ],
+        "imdb": [
+          "Svyatoslav Podgaevskiy"
+        ]
+      },
+      {
+        "tconst": "tt6832388",
+        "title": "The Dark",
+        "year": 2018,
+        "imdbTitle": "The Dark",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Drama,Fantasy,Horror",
+        "tmdb": [
+          "Justin P. Lange",
+          "Klemens Hufnagl"
+        ],
+        "imdb": [
+          "Justin P. Lange"
+        ]
+      },
+      {
+        "tconst": "tt3561236",
+        "title": "Containment",
+        "year": 2015,
+        "imdbTitle": "Containment",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Horror,Sci-Fi,Thriller",
+        "tmdb": [
+          "Neil Mcenery-West"
+        ],
+        "imdb": [
+          "Neil West"
+        ]
+      },
+      {
+        "tconst": "tt1002567",
+        "title": "Hansel & Gretel",
+        "year": 2007,
+        "imdbTitle": "Hansel & Gretel",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Drama,Fantasy,Horror",
+        "tmdb": [
+          "Pil-sung Yim"
+        ],
+        "imdb": [
+          "Yim Pil-sung"
+        ]
+      },
+      {
+        "tconst": "tt0266075",
+        "title": "Memento Mori",
+        "year": 1999,
+        "imdbTitle": "Whispering Corridors 2: Memento Mori",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Drama,Horror,Romance",
+        "tmdb": [
+          "Kyu-dong Min",
+          "Kim Tae-yong"
+        ],
+        "imdb": [
+          "Min Kyu-dong",
+          "Kim Tae-yong"
+        ]
+      },
+      {
+        "tconst": "tt0113376",
+        "title": "Ice Cream Man",
+        "year": 1995,
+        "imdbTitle": "Ice Cream Man",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Comedy,Horror,Thriller",
+        "tmdb": [
+          "Norman Apstein"
+        ],
+        "imdb": [
+          "Paul Norman"
+        ]
+      },
+      {
+        "tconst": "tt2818178",
+        "title": "When Animals Dream",
+        "year": 2014,
+        "imdbTitle": "When Animals Dream",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Drama,Fantasy,Horror",
+        "tmdb": [
+          "Jonas Alexander Arnby"
+        ],
+        "imdb": [
+          "Jonas Alexander Abramowitz Arnby"
+        ]
+      },
+      {
+        "tconst": "tt0811073",
+        "title": "Slaughtered Vomit Dolls",
+        "year": 2006,
+        "imdbTitle": "Slaughtered Vomit Dolls",
+        "titleType": "video",
+        "isAdult": 0,
+        "genres": "Horror",
+        "tmdb": [
+          "Shawn Fedorchuk"
+        ],
+        "imdb": [
+          "Lucifer Valentine"
+        ]
+      }
+    ],
+    "castNoOverlap": [
+      {
+        "tconst": "tt0216651",
+        "title": "Vampire Hunter D: Bloodlust",
+        "year": 2000,
+        "imdbTitle": "Vampire Hunter D: Bloodlust",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Action,Animation,Drama",
+        "tmdb": [
+          "Yoko Soumi",
+          "Hideyuki Tanaka",
+          "Koichi Yamadera",
+          "Megumi Hayashibara",
+          "Akiko Yajima",
+          "Emi Shinohara",
+          "Ichiro Nagai",
+          "Bibari Maeda"
+        ],
+        "imdb": [
+          "Andrew Philpot",
+          "John Rafter Lee",
+          "Pamela Adlon",
+          "Wendee Lee",
+          "Michael McShane",
+          "Julia Fletcher",
+          "Matt McKenzie",
+          "John DiMaggio"
+        ]
+      },
+      {
+        "tconst": "tt0374639",
+        "title": "Incident at Loch Ness",
+        "year": 2004,
+        "imdbTitle": "Incident at Loch Ness",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Adventure,Comedy,Fantasy",
+        "tmdb": [
+          "Kitana Baker",
+          "Robert O'Meara",
+          "Steve Gardner",
+          "Marty Signore",
+          "Jeff Goldblum",
+          "Crispin Glover",
+          "Ricky Jay"
+        ],
+        "imdb": [
+          "Gabriel Beristain",
+          "John Bailey"
+        ]
+      },
+      {
+        "tconst": "tt0113356",
+        "title": "Out of the Dark",
+        "year": 1995,
+        "imdbTitle": "Out of the Dark",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Comedy,Fantasy,Horror",
+        "tmdb": [
+          "Stephen Chow Sing-Chi",
+          "Karen Mok Man-Wai",
+          "Leung Kar-Yan",
+          "Wong Yat-fei",
+          "Lo Hung",
+          "Ben Wong",
+          "Lee Kin-Yan",
+          "Heung Dip"
+        ],
+        "imdb": [
+          "Stephen Chow",
+          "Karen Mok",
+          "Yat-Fei Wong",
+          "Kin-Yan Lee",
+          "Lik-Chi Lee",
+          "Hung Lu",
+          "Bruce Mang",
+          "Chi-Yin Wong"
+        ]
+      },
+      {
+        "tconst": "tt0479201",
+        "title": "Living Hell",
+        "year": 2008,
+        "imdbTitle": "Living Hell",
+        "titleType": "tvMovie",
+        "isAdult": 0,
+        "genres": "Action,Horror,Mystery",
+        "tmdb": [
+          "Johnathon Schaech",
+          "Erica Leerhsen",
+          "James McDaniel",
+          "Jason Wiles",
+          "Terence Jay",
+          "Joshua Rollins"
+        ],
+        "imdb": [
+          "Lew Alexander",
+          "Charissa Allen",
+          "Daniel Beer",
+          "Josh Berry",
+          "Liezl Carstens",
+          "Vic Chao",
+          "Stormy Garcia",
+          "Rick Herod"
+        ]
+      },
+      {
+        "tconst": "tt1655617",
+        "title": "Bestseller",
+        "year": 2010,
+        "imdbTitle": "Bestseller",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Horror,Mystery,Thriller",
+        "tmdb": [
+          "Uhm Jung-hwa",
+          "Ryu Seung-ryong",
+          "Lee Do-gyeong",
+          "Cho Jin-woong",
+          "Lee Sung-min",
+          "Park Sa-rang",
+          "Kim Hwa-yeong"
+        ],
+        "imdb": [
+          "Uhm Junghwa",
+          "Lee Da-eun",
+          "Jang Dae-woong",
+          "Kim Dae-yeong",
+          "Lee Do-kyung",
+          "Kim Dong-hyeon",
+          "Nam Dong-hyub",
+          "Kim Hee-kyeong"
+        ]
+      },
+      {
+        "tconst": "tt2637720",
+        "title": "Ghost Adventures",
+        "year": 2007,
+        "imdbTitle": "Ghost Adventures",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Documentary",
+        "tmdb": [
+          "Zak Bagans",
+          "Nick Groff",
+          "Aaron Goodwin"
+        ],
+        "imdb": [
+          "Mike Hardy",
+          "Jared Palmer",
+          "Scott Ryan Paulson"
+        ]
+      },
+      {
+        "tconst": "tt5123896",
+        "title": "Scream, Queen! My Nightmare on Elm Street",
+        "year": 2019,
+        "imdbTitle": "Scream, Queen! My Nightmare on Elm Street",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Documentary,Horror",
+        "tmdb": [
+          "Mark Patton",
+          "Kim Myers",
+          "Robert Englund",
+          "Lisa Wilcox",
+          "Robert Rusler",
+          "Ken Sagoes",
+          "Marshall Bell",
+          "Heather Langenkamp"
+        ],
+        "imdb": [
+          "Cecil Baldwin"
+        ]
+      },
+      {
+        "tconst": "tt4130484",
+        "title": "Demon House",
+        "year": 2019,
+        "imdbTitle": "Demon House",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Documentary,Horror,Mystery",
+        "tmdb": [
+          "Zak Bagans",
+          "Billy Tolley",
+          "Jay Wasley",
+          "Barry Taff",
+          "Ed Weibe"
+        ],
+        "imdb": [
+          "Devin Bethea",
+          "Judaea Samuelle Brown",
+          "John Gray"
+        ]
+      },
+      {
+        "tconst": "tt2961768",
+        "title": "Horror Stories",
+        "year": 2012,
+        "imdbTitle": "Horror Stories",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Crime,Drama,Fantasy",
+        "tmdb": [
+          "Kim Ji-won",
+          "Yoo Yeon-seok",
+          "Kim Hyun-soo",
+          "No Kang-min",
+          "Um Tae-goo",
+          "Ra Mi-ran",
+          "No Hyeon-Hee",
+          "Jin Tae-hyeon"
+        ],
+        "imdb": [
+          "Kim Bo-kyung",
+          "Nam Bo-ra",
+          "Jung Won Cha",
+          "Lee Chae-kyung",
+          "Lee Dong-kyu",
+          "Jung Eun-chae",
+          "Jo Han-chul",
+          "Kim Hyeon-soo"
+        ]
+      },
+      {
+        "tconst": "tt0086640",
+        "title": "Seeding of a Ghost",
+        "year": 1983,
+        "imdbTitle": "Seeding of a Ghost",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Crime,Horror,Thriller",
+        "tmdb": [
+          "Norman Tsui Siu-Keung",
+          "Wang Yong",
+          "Maria Yuen Chi-Wai",
+          "Pak Man-Biu",
+          "Tien Mi",
+          "Kar-Man Wai",
+          "Wong Ching-Ho",
+          "Hung San-Nam"
+        ],
+        "imdb": [
+          "Norman Chu",
+          "Phillip Ko",
+          "Maria Jo",
+          "Jung Wang",
+          "Mi Tien",
+          "Hussein Abu Hassan",
+          "Hsin-Nan Hung",
+          "Man-Biu Pak"
+        ]
+      },
+      {
+        "tconst": "tt4201990",
+        "title": "Haunters: The Art of the Scare",
+        "year": 2017,
+        "imdbTitle": "Haunters: The Art of the Scare",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Documentary,Horror",
+        "tmdb": [
+          "Russ McKamey",
+          "Carol Schultz",
+          "Shar Mayer",
+          "Donald Julson",
+          "Cierra Skelton",
+          "Lora Ivanova",
+          "John Murdy",
+          "Bruce Stanton"
+        ],
+        "imdb": [
+          "Jason Blum",
+          "Jen Soska",
+          "McKenzie Westmore",
+          "Jason Thompson",
+          "Sylvia Soska",
+          "Slash",
+          "Patrick Tatopoulos"
+        ]
+      },
+      {
+        "tconst": "tt3463938",
+        "title": "Haunting of the Queen Mary",
+        "year": 2023,
+        "imdbTitle": "Haunting of the Queen Mary",
+        "titleType": "movie",
+        "isAdult": 0,
+        "genres": "Drama,Horror,Mystery",
+        "tmdb": [
+          "Alice Eve",
+          "Joel Fry",
+          "Nell Hudson",
+          "Angus Wright",
+          "Jim Piddock",
+          "Dorian Lough",
+          "William Shockley",
+          "Tim Downie"
+        ],
+        "imdb": [
+          "Wesley Alfvin",
+          "Elena Angelova",
+          "Tiffany Ashton",
+          "Barbarossa Federico",
+          "Maciej Bartoszewski",
+          "Alan Booty",
+          "Grace Chandler",
+          "Brooke Chanel"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #07080b;
+  --bg2: #101218;
+  --ink: #e8e4da;
+  --ink-dim: #9a958a;
+  --blood: #c1121f;
+  --amber: #e5a00d;
+  --line: #2a2a30;
+  --background: var(--bg);
+  --foreground: var(--ink);
+}
+
+@theme inline {
+  --color-background: var(--bg);
+  --color-foreground: var(--ink);
+  --font-sans: var(--font-source), Georgia, serif;
+  --font-mono: var(--font-space), ui-monospace, monospace;
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-source), Georgia, serif;
+}
+
+.font-display {
+  font-family: var(--font-anton), "Arial Narrow", Impact, sans-serif;
+}
+
+::selection {
+  background: #c1121f;
+  color: #e8e4da;
+}
+
+/* The browser focus ring on an SVG control is the bounding box. The lit
+   curve and the film row are the selection. */
+svg [role="button"] {
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+svg [role="button"]:focus,
+svg [role="button"]:focus-visible {
+  outline: none;
+}
+
+.house-place:focus-visible polygon {
+  stroke: #e5a00d;
+}

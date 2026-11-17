@@ -1,0 +1,2127 @@
+{
+  "corpus": {
+    "films": 28648,
+    "people": 145739,
+    "medianCast": 8.0,
+    "minYear": 1895,
+    "maxYear": 2024,
+    "source": "HenryWaltson/TMDB-IMDB-Movies-Dataset"
+  },
+  "opening": {
+    "a": "Jeff Kirkendall",
+    "b": "Mark Polonia",
+    "kind": "directed",
+    "weight": 25,
+    "director": "Mark Polonia",
+    "films": [
+      {
+        "title": "Cocaine Shark",
+        "year": 2023,
+        "tconst": "tt27036391"
+      },
+      {
+        "title": "Jurassic Shark 3: Seavenge",
+        "year": 2023,
+        "tconst": "tt27036477"
+      },
+      {
+        "title": "Yule Log",
+        "year": 2023,
+        "tconst": "tt28361249"
+      },
+      {
+        "title": "Amityville in Space",
+        "year": 2022,
+        "tconst": "tt18454132"
+      },
+      {
+        "title": "Feeders 3: The Final Meal",
+        "year": 2022,
+        "tconst": "tt13309464"
+      },
+      {
+        "title": "House Squatch",
+        "year": 2022,
+        "tconst": "tt18349864"
+      },
+      {
+        "title": "RIP",
+        "year": 2022,
+        "tconst": "tt17350138"
+      },
+      {
+        "title": "Sharkula",
+        "year": 2022,
+        "tconst": "tt14096132"
+      }
+    ],
+    "more": 17,
+    "center": "Mark Polonia"
+  },
+  "mostFilms": [
+    {
+      "id": "Debbie Rochon",
+      "name": "Debbie Rochon",
+      "filmCount": 148,
+      "asActor": 147,
+      "asDirector": 1
+    },
+    {
+      "id": "Brinke Stevens",
+      "name": "Brinke Stevens",
+      "filmCount": 117,
+      "asActor": 117,
+      "asDirector": 1
+    },
+    {
+      "id": "Linnea Quigley",
+      "name": "Linnea Quigley",
+      "filmCount": 94,
+      "asActor": 94,
+      "asDirector": 0
+    },
+    {
+      "id": "Shawn C. Phillips",
+      "name": "Shawn C. Phillips",
+      "filmCount": 89,
+      "asActor": 86,
+      "asDirector": 10
+    },
+    {
+      "id": "Felissa Rose",
+      "name": "Felissa Rose",
+      "filmCount": 82,
+      "asActor": 82,
+      "asDirector": 0
+    },
+    {
+      "id": "Eric Roberts",
+      "name": "Eric Roberts",
+      "filmCount": 81,
+      "asActor": 81,
+      "asDirector": 0
+    },
+    {
+      "id": "John Carradine",
+      "name": "John Carradine",
+      "filmCount": 81,
+      "asActor": 81,
+      "asDirector": 0
+    },
+    {
+      "id": "Dustin Ferguson",
+      "name": "Dustin Ferguson",
+      "filmCount": 79,
+      "asActor": 0,
+      "asDirector": 79
+    }
+  ],
+  "topDirected": [
+    {
+      "a": "Jeff Kirkendall",
+      "b": "Mark Polonia",
+      "kind": "directed",
+      "weight": 25,
+      "director": "Mark Polonia",
+      "films": [
+        {
+          "title": "Cocaine Shark",
+          "year": 2023,
+          "tconst": "tt27036391"
+        },
+        {
+          "title": "Jurassic Shark 3: Seavenge",
+          "year": 2023,
+          "tconst": "tt27036477"
+        },
+        {
+          "title": "Yule Log",
+          "year": 2023,
+          "tconst": "tt28361249"
+        },
+        {
+          "title": "Amityville in Space",
+          "year": 2022,
+          "tconst": "tt18454132"
+        }
+      ],
+      "more": 21
+    },
+    {
+      "a": "Breana Mitchell",
+      "b": "Dustin Ferguson",
+      "kind": "directed",
+      "weight": 22,
+      "director": "Dustin Ferguson",
+      "films": [
+        {
+          "title": "Cocaine Cougar",
+          "year": 2023,
+          "tconst": "tt27115110"
+        },
+        {
+          "title": "Doll Killer 3",
+          "year": 2023,
+          "tconst": "tt21206460"
+        },
+        {
+          "title": "The Creeps 2",
+          "year": 2023,
+          "tconst": "tt27881605"
+        },
+        {
+          "title": "Beyond the Gates of Hell",
+          "year": 2022,
+          "tconst": "tt19878416"
+        }
+      ],
+      "more": 18
+    },
+    {
+      "a": "John Polonia",
+      "b": "Mark Polonia",
+      "kind": "directed",
+      "weight": 22,
+      "director": null,
+      "films": [
+        {
+          "title": "Forest Primeval",
+          "year": 2008,
+          "tconst": "tt1263784"
+        },
+        {
+          "title": "Monster Movie",
+          "year": 2008,
+          "tconst": "tt1388784"
+        },
+        {
+          "title": "Splatter Beach",
+          "year": 2007,
+          "tconst": "tt0918633"
+        },
+        {
+          "title": "WildCat",
+          "year": 2007,
+          "tconst": "tt0972919"
+        }
+      ],
+      "more": 18
+    },
+    {
+      "a": "Kôji Shiraishi",
+      "b": "Shigeo Ôsako",
+      "kind": "directed",
+      "weight": 21,
+      "director": "Kôji Shiraishi",
+      "films": [
+        {
+          "title": "Senritsu Kaiki World Kowasugi!",
+          "year": 2023,
+          "tconst": "tt28283834"
+        },
+        {
+          "title": "A Beast in Love",
+          "year": 2020,
+          "tconst": "tt12053992"
+        },
+        {
+          "title": "Simokita 2014",
+          "year": 2017,
+          "tconst": "tt17538712"
+        },
+        {
+          "title": "Vauxhall Rideshow - Escape from Dead School",
+          "year": 2016,
+          "tconst": "tt5207452"
+        }
+      ],
+      "more": 17
+    },
+    {
+      "a": "Jesús Franco",
+      "b": "Lina Romay",
+      "kind": "directed",
+      "weight": 20,
+      "director": "Jesús Franco",
+      "films": [
+        {
+          "title": "Incubus",
+          "year": 2002,
+          "tconst": "tt0289719"
+        },
+        {
+          "title": "Killer Barbys vs. Dracula",
+          "year": 2002,
+          "tconst": "tt0327001"
+        },
+        {
+          "title": "Vampire Junction",
+          "year": 2001,
+          "tconst": "tt0274189"
+        },
+        {
+          "title": "Helter Skelter",
+          "year": 2000,
+          "tconst": "tt0273259"
+        }
+      ],
+      "more": 16
+    },
+    {
+      "a": "Dustin Ferguson",
+      "b": "Jennii Caroline",
+      "kind": "directed",
+      "weight": 19,
+      "director": "Dustin Ferguson",
+      "films": [
+        {
+          "title": "VHS Violence",
+          "year": 2021,
+          "tconst": "tt9788898"
+        },
+        {
+          "title": "Frames of Fear III",
+          "year": 2020,
+          "tconst": "tt7472964"
+        },
+        {
+          "title": "I Drip Blood on Your Grave",
+          "year": 2020,
+          "tconst": "tt13351898"
+        },
+        {
+          "title": "Tales for the Campfire 2",
+          "year": 2017,
+          "tconst": "tt6425270"
+        }
+      ],
+      "more": 15
+    },
+    {
+      "a": "Dustin Ferguson",
+      "b": "Shawn C. Phillips",
+      "kind": "directed",
+      "weight": 18,
+      "director": "Dustin Ferguson",
+      "films": [
+        {
+          "title": "Big Freakin’ Snake",
+          "year": 2023,
+          "tconst": "tt27796557"
+        },
+        {
+          "title": "Demonoids from Hell",
+          "year": 2023,
+          "tconst": "tt14213908"
+        },
+        {
+          "title": "The Beast Beneath",
+          "year": 2023,
+          "tconst": "tt12395290"
+        },
+        {
+          "title": "Ebola Rex",
+          "year": 2021,
+          "tconst": "tt12680102"
+        }
+      ],
+      "more": 14
+    },
+    {
+      "a": "Mark Polonia",
+      "b": "Todd Carpenter",
+      "kind": "directed",
+      "weight": 18,
+      "director": "Mark Polonia",
+      "films": [
+        {
+          "title": "Feeders 3: The Final Meal",
+          "year": 2022,
+          "tconst": "tt13309464"
+        },
+        {
+          "title": "Virus Shark",
+          "year": 2021,
+          "tconst": "tt13785940"
+        },
+        {
+          "title": "Amityville Exorcism",
+          "year": 2017,
+          "tconst": "tt6068978"
+        },
+        {
+          "title": "Bigfoot vs. Zombies",
+          "year": 2016,
+          "tconst": "tt5307698"
+        }
+      ],
+      "more": 14
+    }
+  ],
+  "topCostar": [
+    {
+      "a": "Christopher Lee",
+      "b": "Peter Cushing",
+      "kind": "costar",
+      "weight": 17,
+      "director": null,
+      "films": [
+        {
+          "title": "House of the Long Shadows",
+          "year": 1983,
+          "tconst": "tt0085693"
+        },
+        {
+          "title": "Nothing But the Night",
+          "year": 1973,
+          "tconst": "tt0069024"
+        },
+        {
+          "title": "The Creeping Flesh",
+          "year": 1973,
+          "tconst": "tt0068424"
+        },
+        {
+          "title": "The Satanic Rites of Dracula",
+          "year": 1973,
+          "tconst": "tt0070634"
+        }
+      ],
+      "more": 13
+    },
+    {
+      "a": "Julie Anne Prescott",
+      "b": "Shawn C. Phillips",
+      "kind": "costar",
+      "weight": 16,
+      "director": null,
+      "films": [
+        {
+          "title": "Alien Vampire Busters",
+          "year": 2023,
+          "tconst": "tt12752880"
+        },
+        {
+          "title": "Big Freakin’ Snake",
+          "year": 2023,
+          "tconst": "tt27796557"
+        },
+        {
+          "title": "Demonoids from Hell",
+          "year": 2023,
+          "tconst": "tt14213908"
+        },
+        {
+          "title": "Clown Motel 2",
+          "year": 2022,
+          "tconst": "tt10489208"
+        }
+      ],
+      "more": 12
+    },
+    {
+      "a": "Brinke Stevens",
+      "b": "Debbie Rochon",
+      "kind": "costar",
+      "weight": 15,
+      "director": null,
+      "films": [
+        {
+          "title": "Caesar and Otto's Paranormal Halloween",
+          "year": 2015,
+          "tconst": "tt3581382"
+        },
+        {
+          "title": "Disciples",
+          "year": 2014,
+          "tconst": "tt2006719"
+        },
+        {
+          "title": "Bloodstruck",
+          "year": 2010,
+          "tconst": "tt1721675"
+        },
+        {
+          "title": "Under the Scares",
+          "year": 2010,
+          "tconst": "tt1672133"
+        }
+      ],
+      "more": 11
+    },
+    {
+      "a": "Chika Kuboyama",
+      "b": "Shigeo Ôsako",
+      "kind": "costar",
+      "weight": 14,
+      "director": null,
+      "films": [
+        {
+          "title": "Senritsu Kaiki World Kowasugi!",
+          "year": 2023,
+          "tconst": "tt28283834"
+        },
+        {
+          "title": "A Beast in Love",
+          "year": 2020,
+          "tconst": "tt12053992"
+        },
+        {
+          "title": "Simokita 2014",
+          "year": 2017,
+          "tconst": "tt17538712"
+        },
+        {
+          "title": "Message From Beyond",
+          "year": 2015,
+          "tconst": "tt17538802"
+        }
+      ],
+      "more": 10
+    },
+    {
+      "a": "James Carolus",
+      "b": "Jeff Kirkendall",
+      "kind": "costar",
+      "weight": 13,
+      "director": null,
+      "films": [
+        {
+          "title": "Jurassic Shark 3: Seavenge",
+          "year": 2023,
+          "tconst": "tt27036477"
+        },
+        {
+          "title": "Feeders 3: The Final Meal",
+          "year": 2022,
+          "tconst": "tt13309464"
+        },
+        {
+          "title": "RIP",
+          "year": 2022,
+          "tconst": "tt17350138"
+        },
+        {
+          "title": "Jurassic Shark 2: Aquapocalypse",
+          "year": 2021,
+          "tconst": "tt14873410"
+        }
+      ],
+      "more": 9
+    },
+    {
+      "a": "Brinke Stevens",
+      "b": "Linnea Quigley",
+      "kind": "costar",
+      "weight": 13,
+      "director": null,
+      "films": [
+        {
+          "title": "Death Heads: Brain Drain",
+          "year": 2018,
+          "tconst": "tt9331434"
+        },
+        {
+          "title": "Disciples",
+          "year": 2014,
+          "tconst": "tt2006719"
+        },
+        {
+          "title": "The 50 Best Horror Movies You've Never Seen",
+          "year": 2014,
+          "tconst": "tt1671746"
+        },
+        {
+          "title": "Trophy Heads",
+          "year": 2014,
+          "tconst": "tt3765892"
+        }
+      ],
+      "more": 9
+    },
+    {
+      "a": "Mike Ferguson",
+      "b": "Shawn C. Phillips",
+      "kind": "costar",
+      "weight": 12,
+      "director": null,
+      "films": [
+        {
+          "title": "Alien Vampire Busters",
+          "year": 2023,
+          "tconst": "tt12752880"
+        },
+        {
+          "title": "The Beast Beneath",
+          "year": 2023,
+          "tconst": "tt12395290"
+        },
+        {
+          "title": "Clown Motel 2",
+          "year": 2022,
+          "tconst": "tt10489208"
+        },
+        {
+          "title": "Night of the Zomghouls",
+          "year": 2022,
+          "tconst": "tt13260780"
+        }
+      ],
+      "more": 8
+    },
+    {
+      "a": "Jamie Morgan",
+      "b": "Jeff Kirkendall",
+      "kind": "costar",
+      "weight": 12,
+      "director": null,
+      "films": [
+        {
+          "title": "Jurassic Shark 3: Seavenge",
+          "year": 2023,
+          "tconst": "tt27036477"
+        },
+        {
+          "title": "Yule Log",
+          "year": 2023,
+          "tconst": "tt28361249"
+        },
+        {
+          "title": "House Squatch",
+          "year": 2022,
+          "tconst": "tt18349864"
+        },
+        {
+          "title": "Sharkula",
+          "year": 2022,
+          "tconst": "tt14096132"
+        }
+      ],
+      "more": 8
+    }
+  ],
+  "openingEgo": {
+    "id": "Mark Polonia",
+    "name": "Mark Polonia",
+    "filmCount": 58,
+    "asActor": 0,
+    "asDirector": 58,
+    "omitted": 109,
+    "neighbors": [
+      {
+        "id": "Jeff Kirkendall",
+        "name": "Jeff Kirkendall",
+        "weight": 25,
+        "kind": "directed",
+        "director": "Mark Polonia",
+        "filmCount": 32,
+        "films": [
+          {
+            "title": "Cocaine Shark",
+            "year": 2023,
+            "tconst": "tt27036391"
+          },
+          {
+            "title": "Jurassic Shark 3: Seavenge",
+            "year": 2023,
+            "tconst": "tt27036477"
+          },
+          {
+            "title": "Yule Log",
+            "year": 2023,
+            "tconst": "tt28361249"
+          },
+          {
+            "title": "Amityville in Space",
+            "year": 2022,
+            "tconst": "tt18454132"
+          },
+          {
+            "title": "Feeders 3: The Final Meal",
+            "year": 2022,
+            "tconst": "tt13309464"
+          },
+          {
+            "title": "House Squatch",
+            "year": 2022,
+            "tconst": "tt18349864"
+          },
+          {
+            "title": "RIP",
+            "year": 2022,
+            "tconst": "tt17350138"
+          },
+          {
+            "title": "Sharkula",
+            "year": 2022,
+            "tconst": "tt14096132"
+          },
+          {
+            "title": "Jurassic Shark 2: Aquapocalypse",
+            "year": 2021,
+            "tconst": "tt14873410"
+          },
+          {
+            "title": "Noah’s Shark",
+            "year": 2021,
+            "tconst": "tt15241706"
+          },
+          {
+            "title": "Amityville Island",
+            "year": 2020,
+            "tconst": "tt12057580"
+          },
+          {
+            "title": "Children of Camp Blood",
+            "year": 2020,
+            "tconst": "tt13562408"
+          },
+          {
+            "title": "Return To Splatter Farm",
+            "year": 2020,
+            "tconst": "tt12755232"
+          },
+          {
+            "title": "Bride of the Werewolf",
+            "year": 2019,
+            "tconst": "tt11045776"
+          },
+          {
+            "title": "Deadly Playthings",
+            "year": 2019,
+            "tconst": "tt10078894"
+          },
+          {
+            "title": "Ghost of Camp Blood",
+            "year": 2018,
+            "tconst": "tt8074328"
+          },
+          {
+            "title": "Amityville Exorcism",
+            "year": 2017,
+            "tconst": "tt6068978"
+          },
+          {
+            "title": "It Kills: Camp Blood 7",
+            "year": 2017,
+            "tconst": "tt7546024"
+          },
+          {
+            "title": "Land Shark",
+            "year": 2017,
+            "tconst": "tt6492158"
+          },
+          {
+            "title": "Bigfoot vs. Zombies",
+            "year": 2016,
+            "tconst": "tt5307698"
+          },
+          {
+            "title": "Sharkenstein",
+            "year": 2016,
+            "tconst": "tt5636234"
+          },
+          {
+            "title": "Amityville Death House",
+            "year": 2015,
+            "tconst": "tt4471212"
+          },
+          {
+            "title": "Jurassic Prey",
+            "year": 2015,
+            "tconst": "tt3469284"
+          },
+          {
+            "title": "Camp Blood First Slaughter",
+            "year": 2014,
+            "tconst": "tt3096810"
+          },
+          {
+            "title": "Mummy Shark",
+            "year": null,
+            "tconst": "tt32525522"
+          }
+        ],
+        "more": 0
+      },
+      {
+        "id": "John Polonia",
+        "name": "John Polonia",
+        "weight": 22,
+        "kind": "directed",
+        "director": null,
+        "filmCount": 22,
+        "films": [
+          {
+            "title": "Forest Primeval",
+            "year": 2008,
+            "tconst": "tt1263784"
+          },
+          {
+            "title": "Monster Movie",
+            "year": 2008,
+            "tconst": "tt1388784"
+          },
+          {
+            "title": "Splatter Beach",
+            "year": 2007,
+            "tconst": "tt0918633"
+          },
+          {
+            "title": "WildCat",
+            "year": 2007,
+            "tconst": "tt0972919"
+          },
+          {
+            "title": "Black Mass",
+            "year": 2005,
+            "tconst": "tt0471102"
+          },
+          {
+            "title": "Razorteeth",
+            "year": 2005,
+            "tconst": "tt0435314"
+          },
+          {
+            "title": "Among Us",
+            "year": 2004,
+            "tconst": "tt0360361"
+          },
+          {
+            "title": "Peter Rottentail",
+            "year": 2004,
+            "tconst": "tt0399485"
+          },
+          {
+            "title": "Holla If I Kill You",
+            "year": 2003,
+            "tconst": "tt0388113"
+          },
+          {
+            "title": "NightThirst",
+            "year": 2002,
+            "tconst": "tt0309914"
+          },
+          {
+            "title": "Dweller",
+            "year": 2001,
+            "tconst": "tt0385667"
+          },
+          {
+            "title": "Blood Red Planet",
+            "year": 2000,
+            "tconst": "tt0275229"
+          },
+          {
+            "title": "The House That Screamed",
+            "year": 2000,
+            "tconst": "tt0356706"
+          },
+          {
+            "title": "Bad Magic",
+            "year": 1998,
+            "tconst": "tt0300970"
+          },
+          {
+            "title": "Feeders 2: Slay Bells",
+            "year": 1998,
+            "tconst": "tt0366436"
+          },
+          {
+            "title": "Terror House",
+            "year": 1998,
+            "tconst": "tt0441037"
+          },
+          {
+            "title": "Feeders",
+            "year": 1996,
+            "tconst": "tt0183072"
+          },
+          {
+            "title": "Night Crawlers",
+            "year": 1996,
+            "tconst": "tt0189804"
+          },
+          {
+            "title": "Hellspawn",
+            "year": 1993,
+            "tconst": "tt0422410"
+          },
+          {
+            "title": "Splatter Farm",
+            "year": 1987,
+            "tconst": "tt0234786"
+          },
+          {
+            "title": "Hallucinations",
+            "year": 1986,
+            "tconst": "tt1260497"
+          },
+          {
+            "title": "Church of the Damned",
+            "year": 1985,
+            "tconst": "tt10083808"
+          }
+        ],
+        "more": 0
+      },
+      {
+        "id": "Todd Carpenter",
+        "name": "Todd Carpenter",
+        "weight": 18,
+        "kind": "directed",
+        "director": "Mark Polonia",
+        "filmCount": 18,
+        "films": [
+          {
+            "title": "Feeders 3: The Final Meal",
+            "year": 2022,
+            "tconst": "tt13309464"
+          },
+          {
+            "title": "Virus Shark",
+            "year": 2021,
+            "tconst": "tt13785940"
+          },
+          {
+            "title": "Amityville Exorcism",
+            "year": 2017,
+            "tconst": "tt6068978"
+          },
+          {
+            "title": "Bigfoot vs. Zombies",
+            "year": 2016,
+            "tconst": "tt5307698"
+          },
+          {
+            "title": "Jurassic Prey",
+            "year": 2015,
+            "tconst": "tt3469284"
+          },
+          {
+            "title": "HalloweeNight",
+            "year": 2009,
+            "tconst": "tt1815731"
+          },
+          {
+            "title": "Monster Movie",
+            "year": 2008,
+            "tconst": "tt1388784"
+          },
+          {
+            "title": "Black Mass",
+            "year": 2005,
+            "tconst": "tt0471102"
+          },
+          {
+            "title": "Razorteeth",
+            "year": 2005,
+            "tconst": "tt0435314"
+          },
+          {
+            "title": "Among Us",
+            "year": 2004,
+            "tconst": "tt0360361"
+          },
+          {
+            "title": "Peter Rottentail",
+            "year": 2004,
+            "tconst": "tt0399485"
+          },
+          {
+            "title": "Preylien: Alien Predators",
+            "year": 2004,
+            "tconst": "tt0491801"
+          },
+          {
+            "title": "Blood Red Planet",
+            "year": 2000,
+            "tconst": "tt0275229"
+          },
+          {
+            "title": "The House That Screamed",
+            "year": 2000,
+            "tconst": "tt0356706"
+          },
+          {
+            "title": "Feeders 2: Slay Bells",
+            "year": 1998,
+            "tconst": "tt0366436"
+          },
+          {
+            "title": "Feeders",
+            "year": 1996,
+            "tconst": "tt0183072"
+          },
+          {
+            "title": "Saurians",
+            "year": 1994,
+            "tconst": "tt0265705"
+          },
+          {
+            "title": "Hellspawn",
+            "year": 1993,
+            "tconst": "tt0422410"
+          }
+        ],
+        "more": 0
+      },
+      {
+        "id": "Ken Van Sant",
+        "name": "Ken Van Sant",
+        "weight": 16,
+        "kind": "directed",
+        "director": "Mark Polonia",
+        "filmCount": 19,
+        "films": [
+          {
+            "title": "Cocaine Shark",
+            "year": 2023,
+            "tconst": "tt27036391"
+          },
+          {
+            "title": "Doll Shark",
+            "year": 2022,
+            "tconst": "tt22028678"
+          },
+          {
+            "title": "House Squatch",
+            "year": 2022,
+            "tconst": "tt18349864"
+          },
+          {
+            "title": "Virus Shark",
+            "year": 2021,
+            "tconst": "tt13785940"
+          },
+          {
+            "title": "Return To Splatter Farm",
+            "year": 2020,
+            "tconst": "tt12755232"
+          },
+          {
+            "title": "Amityville Exorcism",
+            "year": 2017,
+            "tconst": "tt6068978"
+          },
+          {
+            "title": "Bigfoot vs. Zombies",
+            "year": 2016,
+            "tconst": "tt5307698"
+          },
+          {
+            "title": "Sharkenstein",
+            "year": 2016,
+            "tconst": "tt5636234"
+          },
+          {
+            "title": "Amityville Death House",
+            "year": 2015,
+            "tconst": "tt4471212"
+          },
+          {
+            "title": "Jurassic Prey",
+            "year": 2015,
+            "tconst": "tt3469284"
+          },
+          {
+            "title": "Camp Blood First Slaughter",
+            "year": 2014,
+            "tconst": "tt3096810"
+          },
+          {
+            "title": "Chainsaw Killer",
+            "year": 2014,
+            "tconst": "tt8088824"
+          },
+          {
+            "title": "HalloweeNight",
+            "year": 2009,
+            "tconst": "tt1815731"
+          },
+          {
+            "title": "Monster Movie",
+            "year": 2008,
+            "tconst": "tt1388784"
+          },
+          {
+            "title": "Black Mass",
+            "year": 2005,
+            "tconst": "tt0471102"
+          },
+          {
+            "title": "Peter Rottentail",
+            "year": 2004,
+            "tconst": "tt0399485"
+          }
+        ],
+        "more": 0
+      },
+      {
+        "id": "Jamie Morgan",
+        "name": "Jamie Morgan",
+        "weight": 15,
+        "kind": "directed",
+        "director": "Mark Polonia",
+        "filmCount": 16,
+        "films": [
+          {
+            "title": "Jurassic Shark 3: Seavenge",
+            "year": 2023,
+            "tconst": "tt27036477"
+          },
+          {
+            "title": "Yule Log",
+            "year": 2023,
+            "tconst": "tt28361249"
+          },
+          {
+            "title": "Doll Shark",
+            "year": 2022,
+            "tconst": "tt22028678"
+          },
+          {
+            "title": "House Squatch",
+            "year": 2022,
+            "tconst": "tt18349864"
+          },
+          {
+            "title": "Sharkula",
+            "year": 2022,
+            "tconst": "tt14096132"
+          },
+          {
+            "title": "Jurassic Shark 2: Aquapocalypse",
+            "year": 2021,
+            "tconst": "tt14873410"
+          },
+          {
+            "title": "Noah’s Shark",
+            "year": 2021,
+            "tconst": "tt15241706"
+          },
+          {
+            "title": "Virus Shark",
+            "year": 2021,
+            "tconst": "tt13785940"
+          },
+          {
+            "title": "Amityville Island",
+            "year": 2020,
+            "tconst": "tt12057580"
+          },
+          {
+            "title": "Children of Camp Blood",
+            "year": 2020,
+            "tconst": "tt13562408"
+          },
+          {
+            "title": "Bride of the Werewolf",
+            "year": 2019,
+            "tconst": "tt11045776"
+          },
+          {
+            "title": "Ghost of Camp Blood",
+            "year": 2018,
+            "tconst": "tt8074328"
+          },
+          {
+            "title": "It Kills: Camp Blood 7",
+            "year": 2017,
+            "tconst": "tt7546024"
+          },
+          {
+            "title": "Mummy Shark",
+            "year": null,
+            "tconst": "tt32525522"
+          },
+          {
+            "title": "Revenge of the Empire of the Apes",
+            "year": null,
+            "tconst": "tt28698351"
+          }
+        ],
+        "more": 0
+      },
+      {
+        "id": "Titus Himmelberger",
+        "name": "Titus Himmelberger",
+        "weight": 13,
+        "kind": "directed",
+        "director": "Mark Polonia",
+        "filmCount": 14,
+        "films": [
+          {
+            "title": "Cocaine Shark",
+            "year": 2023,
+            "tconst": "tt27036391"
+          },
+          {
+            "title": "Jurassic Shark 3: Seavenge",
+            "year": 2023,
+            "tconst": "tt27036477"
+          },
+          {
+            "title": "Amityville in Space",
+            "year": 2022,
+            "tconst": "tt18454132"
+          },
+          {
+            "title": "Feeders 3: The Final Meal",
+            "year": 2022,
+            "tconst": "tt13309464"
+          },
+          {
+            "title": "House Squatch",
+            "year": 2022,
+            "tconst": "tt18349864"
+          },
+          {
+            "title": "Sharkula",
+            "year": 2022,
+            "tconst": "tt14096132"
+          },
+          {
+            "title": "Hell on the Shelf",
+            "year": 2021,
+            "tconst": "tt19872770"
+          },
+          {
+            "title": "Jurassic Shark 2: Aquapocalypse",
+            "year": 2021,
+            "tconst": "tt14873410"
+          },
+          {
+            "title": "Virus Shark",
+            "year": 2021,
+            "tconst": "tt13785940"
+          },
+          {
+            "title": "Deadly Playthings",
+            "year": 2019,
+            "tconst": "tt10078894"
+          },
+          {
+            "title": "Amityville Exorcism",
+            "year": 2017,
+            "tconst": "tt6068978"
+          },
+          {
+            "title": "It Kills: Camp Blood 7",
+            "year": 2017,
+            "tconst": "tt7546024"
+          },
+          {
+            "title": "Sharkenstein",
+            "year": 2016,
+            "tconst": "tt5636234"
+          }
+        ],
+        "more": 0
+      },
+      {
+        "id": "Tim Hatch",
+        "name": "Tim Hatch",
+        "weight": 13,
+        "kind": "directed",
+        "director": "Mark Polonia",
+        "filmCount": 14,
+        "films": [
+          {
+            "title": "Jurassic Shark 3: Seavenge",
+            "year": 2023,
+            "tconst": "tt27036477"
+          },
+          {
+            "title": "Yule Log",
+            "year": 2023,
+            "tconst": "tt28361249"
+          },
+          {
+            "title": "Amityville in Space",
+            "year": 2022,
+            "tconst": "tt18454132"
+          },
+          {
+            "title": "House Squatch",
+            "year": 2022,
+            "tconst": "tt18349864"
+          },
+          {
+            "title": "RIP",
+            "year": 2022,
+            "tconst": "tt17350138"
+          },
+          {
+            "title": "Jurassic Shark 2: Aquapocalypse",
+            "year": 2021,
+            "tconst": "tt14873410"
+          },
+          {
+            "title": "Noah’s Shark",
+            "year": 2021,
+            "tconst": "tt15241706"
+          },
+          {
+            "title": "Children of Camp Blood",
+            "year": 2020,
+            "tconst": "tt13562408"
+          },
+          {
+            "title": "Return To Splatter Farm",
+            "year": 2020,
+            "tconst": "tt12755232"
+          },
+          {
+            "title": "Deadly Playthings",
+            "year": 2019,
+            "tconst": "tt10078894"
+          },
+          {
+            "title": "Ghost of Camp Blood",
+            "year": 2018,
+            "tconst": "tt8074328"
+          },
+          {
+            "title": "Mummy Shark",
+            "year": null,
+            "tconst": "tt32525522"
+          },
+          {
+            "title": "Revenge of the Empire of the Apes",
+            "year": null,
+            "tconst": "tt28698351"
+          }
+        ],
+        "more": 0
+      },
+      {
+        "id": "James Carolus",
+        "name": "James Carolus",
+        "weight": 13,
+        "kind": "directed",
+        "director": "Mark Polonia",
+        "filmCount": 16,
+        "films": [
+          {
+            "title": "Jurassic Shark 3: Seavenge",
+            "year": 2023,
+            "tconst": "tt27036477"
+          },
+          {
+            "title": "Feeders 3: The Final Meal",
+            "year": 2022,
+            "tconst": "tt13309464"
+          },
+          {
+            "title": "RIP",
+            "year": 2022,
+            "tconst": "tt17350138"
+          },
+          {
+            "title": "Jurassic Shark 2: Aquapocalypse",
+            "year": 2021,
+            "tconst": "tt14873410"
+          },
+          {
+            "title": "Virus Shark",
+            "year": 2021,
+            "tconst": "tt13785940"
+          },
+          {
+            "title": "Return To Splatter Farm",
+            "year": 2020,
+            "tconst": "tt12755232"
+          },
+          {
+            "title": "Deadly Playthings",
+            "year": 2019,
+            "tconst": "tt10078894"
+          },
+          {
+            "title": "Ghost of Camp Blood",
+            "year": 2018,
+            "tconst": "tt8074328"
+          },
+          {
+            "title": "Amityville Exorcism",
+            "year": 2017,
+            "tconst": "tt6068978"
+          },
+          {
+            "title": "It Kills: Camp Blood 7",
+            "year": 2017,
+            "tconst": "tt7546024"
+          },
+          {
+            "title": "Bigfoot vs. Zombies",
+            "year": 2016,
+            "tconst": "tt5307698"
+          },
+          {
+            "title": "Sharkenstein",
+            "year": 2016,
+            "tconst": "tt5636234"
+          },
+          {
+            "title": "Jurassic Prey",
+            "year": 2015,
+            "tconst": "tt3469284"
+          }
+        ],
+        "more": 0
+      },
+      {
+        "id": "Bob Dennis",
+        "name": "Bob Dennis",
+        "weight": 12,
+        "kind": "directed",
+        "director": "Mark Polonia",
+        "filmCount": 14,
+        "films": [
+          {
+            "title": "Bigfoot vs. Zombies",
+            "year": 2016,
+            "tconst": "tt5307698"
+          },
+          {
+            "title": "Jurassic Prey",
+            "year": 2015,
+            "tconst": "tt3469284"
+          },
+          {
+            "title": "HalloweeNight",
+            "year": 2009,
+            "tconst": "tt1815731"
+          },
+          {
+            "title": "WildCat",
+            "year": 2007,
+            "tconst": "tt0972919"
+          },
+          {
+            "title": "Black Mass",
+            "year": 2005,
+            "tconst": "tt0471102"
+          },
+          {
+            "title": "Among Us",
+            "year": 2004,
+            "tconst": "tt0360361"
+          },
+          {
+            "title": "NightThirst",
+            "year": 2002,
+            "tconst": "tt0309914"
+          },
+          {
+            "title": "The House That Screamed",
+            "year": 2000,
+            "tconst": "tt0356706"
+          },
+          {
+            "title": "Bad Magic",
+            "year": 1998,
+            "tconst": "tt0300970"
+          },
+          {
+            "title": "Feeders 2: Slay Bells",
+            "year": 1998,
+            "tconst": "tt0366436"
+          },
+          {
+            "title": "Terror House",
+            "year": 1998,
+            "tconst": "tt0441037"
+          },
+          {
+            "title": "Night Crawlers",
+            "year": 1996,
+            "tconst": "tt0189804"
+          }
+        ],
+        "more": 0
+      },
+      {
+        "id": "Steve Diasparra",
+        "name": "Steve Diasparra",
+        "weight": 10,
+        "kind": "directed",
+        "director": "Mark Polonia",
+        "filmCount": 13,
+        "films": [
+          {
+            "title": "Virus Shark",
+            "year": 2021,
+            "tconst": "tt13785940"
+          },
+          {
+            "title": "Ghost of Camp Blood",
+            "year": 2018,
+            "tconst": "tt8074328"
+          },
+          {
+            "title": "Amityville Exorcism",
+            "year": 2017,
+            "tconst": "tt6068978"
+          },
+          {
+            "title": "Bigfoot vs. Zombies",
+            "year": 2016,
+            "tconst": "tt5307698"
+          },
+          {
+            "title": "Sharkenstein",
+            "year": 2016,
+            "tconst": "tt5636234"
+          },
+          {
+            "title": "Amityville Death House",
+            "year": 2015,
+            "tconst": "tt4471212"
+          },
+          {
+            "title": "Jurassic Prey",
+            "year": 2015,
+            "tconst": "tt3469284"
+          },
+          {
+            "title": "Camp Blood First Slaughter",
+            "year": 2014,
+            "tconst": "tt3096810"
+          },
+          {
+            "title": "Chainsaw Killer",
+            "year": 2014,
+            "tconst": "tt8088824"
+          },
+          {
+            "title": "HalloweeNight",
+            "year": 2009,
+            "tconst": "tt1815731"
+          }
+        ],
+        "more": 0
+      },
+      {
+        "id": "Yolie Canales",
+        "name": "Yolie Canales",
+        "weight": 9,
+        "kind": "directed",
+        "director": "Mark Polonia",
+        "filmCount": 11,
+        "films": [
+          {
+            "title": "Jurassic Shark 3: Seavenge",
+            "year": 2023,
+            "tconst": "tt27036477"
+          },
+          {
+            "title": "Amityville in Space",
+            "year": 2022,
+            "tconst": "tt18454132"
+          },
+          {
+            "title": "House Squatch",
+            "year": 2022,
+            "tconst": "tt18349864"
+          },
+          {
+            "title": "Virus Shark",
+            "year": 2021,
+            "tconst": "tt13785940"
+          },
+          {
+            "title": "Children of Camp Blood",
+            "year": 2020,
+            "tconst": "tt13562408"
+          },
+          {
+            "title": "Deadly Playthings",
+            "year": 2019,
+            "tconst": "tt10078894"
+          },
+          {
+            "title": "Amityville Exorcism",
+            "year": 2017,
+            "tconst": "tt6068978"
+          },
+          {
+            "title": "Sharkenstein",
+            "year": 2016,
+            "tconst": "tt5636234"
+          },
+          {
+            "title": "Amityville Death House",
+            "year": 2015,
+            "tconst": "tt4471212"
+          }
+        ],
+        "more": 0
+      },
+      {
+        "id": "Dave Fife",
+        "name": "Dave Fife",
+        "weight": 9,
+        "kind": "directed",
+        "director": "Mark Polonia",
+        "filmCount": 9,
+        "films": [
+          {
+            "title": "Doll Shark",
+            "year": 2022,
+            "tconst": "tt22028678"
+          },
+          {
+            "title": "Hell on the Shelf",
+            "year": 2021,
+            "tconst": "tt19872770"
+          },
+          {
+            "title": "Bigfoot vs. Zombies",
+            "year": 2016,
+            "tconst": "tt5307698"
+          },
+          {
+            "title": "Chainsaw Killer",
+            "year": 2014,
+            "tconst": "tt8088824"
+          },
+          {
+            "title": "HalloweeNight",
+            "year": 2009,
+            "tconst": "tt1815731"
+          },
+          {
+            "title": "Splatter Beach",
+            "year": 2007,
+            "tconst": "tt0918633"
+          },
+          {
+            "title": "Black Mass",
+            "year": 2005,
+            "tconst": "tt0471102"
+          },
+          {
+            "title": "Razorteeth",
+            "year": 2005,
+            "tconst": "tt0435314"
+          },
+          {
+            "title": "Peter Rottentail",
+            "year": 2004,
+            "tconst": "tt0399485"
+          }
+        ],
+        "more": 0
+      },
+      {
+        "id": "Danielle Donahue",
+        "name": "Danielle Donahue",
+        "weight": 8,
+        "kind": "directed",
+        "director": "Mark Polonia",
+        "filmCount": 14,
+        "films": [
+          {
+            "title": "Doll Shark",
+            "year": 2022,
+            "tconst": "tt22028678"
+          },
+          {
+            "title": "Amityville Island",
+            "year": 2020,
+            "tconst": "tt12057580"
+          },
+          {
+            "title": "Return To Splatter Farm",
+            "year": 2020,
+            "tconst": "tt12755232"
+          },
+          {
+            "title": "Bigfoot vs. Zombies",
+            "year": 2016,
+            "tconst": "tt5307698"
+          },
+          {
+            "title": "Amityville Death House",
+            "year": 2015,
+            "tconst": "tt4471212"
+          },
+          {
+            "title": "Jurassic Prey",
+            "year": 2015,
+            "tconst": "tt3469284"
+          },
+          {
+            "title": "HalloweeNight",
+            "year": 2009,
+            "tconst": "tt1815731"
+          },
+          {
+            "title": "WildCat",
+            "year": 2007,
+            "tconst": "tt0972919"
+          }
+        ],
+        "more": 0
+      },
+      {
+        "id": "Maria Davis",
+        "name": "Maria Davis",
+        "weight": 8,
+        "kind": "directed",
+        "director": "Mark Polonia",
+        "filmCount": 8,
+        "films": [
+          {
+            "title": "Ghost of Camp Blood",
+            "year": 2018,
+            "tconst": "tt8074328"
+          },
+          {
+            "title": "Nightmare Vacation",
+            "year": 2018,
+            "tconst": "tt7072824"
+          },
+          {
+            "title": "Among Us",
+            "year": 2004,
+            "tconst": "tt0360361"
+          },
+          {
+            "title": "Peter Rottentail",
+            "year": 2004,
+            "tconst": "tt0399485"
+          },
+          {
+            "title": "Bad Magic",
+            "year": 1998,
+            "tconst": "tt0300970"
+          },
+          {
+            "title": "Feeders 2: Slay Bells",
+            "year": 1998,
+            "tconst": "tt0366436"
+          },
+          {
+            "title": "Feeders",
+            "year": 1996,
+            "tconst": "tt0183072"
+          },
+          {
+            "title": "Saurians",
+            "year": 1994,
+            "tconst": "tt0265705"
+          }
+        ],
+        "more": 0
+      },
+      {
+        "id": "Brian Berry",
+        "name": "Brian Berry",
+        "weight": 8,
+        "kind": "directed",
+        "director": "Mark Polonia",
+        "filmCount": 9,
+        "films": [
+          {
+            "title": "HalloweeNight",
+            "year": 2009,
+            "tconst": "tt1815731"
+          },
+          {
+            "title": "Monster Movie",
+            "year": 2008,
+            "tconst": "tt1388784"
+          },
+          {
+            "title": "Splatter Beach",
+            "year": 2007,
+            "tconst": "tt0918633"
+          },
+          {
+            "title": "WildCat",
+            "year": 2007,
+            "tconst": "tt0972919"
+          },
+          {
+            "title": "Black Mass",
+            "year": 2005,
+            "tconst": "tt0471102"
+          },
+          {
+            "title": "Razorteeth",
+            "year": 2005,
+            "tconst": "tt0435314"
+          },
+          {
+            "title": "Peter Rottentail",
+            "year": 2004,
+            "tconst": "tt0399485"
+          },
+          {
+            "title": "Hellspawn",
+            "year": 1993,
+            "tconst": "tt0422410"
+          }
+        ],
+        "more": 0
+      },
+      {
+        "id": "Jon McBride",
+        "name": "Jon McBride",
+        "weight": 8,
+        "kind": "directed",
+        "director": "Mark Polonia",
+        "filmCount": 10,
+        "films": [
+          {
+            "title": "Black Mass",
+            "year": 2005,
+            "tconst": "tt0471102"
+          },
+          {
+            "title": "Among Us",
+            "year": 2004,
+            "tconst": "tt0360361"
+          },
+          {
+            "title": "NightThirst",
+            "year": 2002,
+            "tconst": "tt0309914"
+          },
+          {
+            "title": "Dweller",
+            "year": 2001,
+            "tconst": "tt0385667"
+          },
+          {
+            "title": "Blood Red Planet",
+            "year": 2000,
+            "tconst": "tt0275229"
+          },
+          {
+            "title": "The House That Screamed",
+            "year": 2000,
+            "tconst": "tt0356706"
+          },
+          {
+            "title": "Terror House",
+            "year": 1998,
+            "tconst": "tt0441037"
+          },
+          {
+            "title": "Feeders",
+            "year": 1996,
+            "tconst": "tt0183072"
+          }
+        ],
+        "more": 0
+      },
+      {
+        "id": "Brice Kennedy",
+        "name": "Brice Kennedy",
+        "weight": 7,
+        "kind": "directed",
+        "director": "Mark Polonia",
+        "filmCount": 7,
+        "films": [
+          {
+            "title": "Splatter Beach",
+            "year": 2007,
+            "tconst": "tt0918633"
+          },
+          {
+            "title": "Black Mass",
+            "year": 2005,
+            "tconst": "tt0471102"
+          },
+          {
+            "title": "Razorteeth",
+            "year": 2005,
+            "tconst": "tt0435314"
+          },
+          {
+            "title": "Peter Rottentail",
+            "year": 2004,
+            "tconst": "tt0399485"
+          },
+          {
+            "title": "Holla If I Kill You",
+            "year": 2003,
+            "tconst": "tt0388113"
+          },
+          {
+            "title": "NightThirst",
+            "year": 2002,
+            "tconst": "tt0309914"
+          },
+          {
+            "title": "Blood Red Planet",
+            "year": 2000,
+            "tconst": "tt0275229"
+          }
+        ],
+        "more": 0
+      },
+      {
+        "id": "Natalie Himmelberger",
+        "name": "Natalie Himmelberger",
+        "weight": 6,
+        "kind": "directed",
+        "director": "Mark Polonia",
+        "filmCount": 6,
+        "films": [
+          {
+            "title": "Cocaine Shark",
+            "year": 2023,
+            "tconst": "tt27036391"
+          },
+          {
+            "title": "Jurassic Shark 3: Seavenge",
+            "year": 2023,
+            "tconst": "tt27036477"
+          },
+          {
+            "title": "Amityville in Space",
+            "year": 2022,
+            "tconst": "tt18454132"
+          },
+          {
+            "title": "Sharkula",
+            "year": 2022,
+            "tconst": "tt14096132"
+          },
+          {
+            "title": "Hell on the Shelf",
+            "year": 2021,
+            "tconst": "tt19872770"
+          },
+          {
+            "title": "Virus Shark",
+            "year": 2021,
+            "tconst": "tt13785940"
+          }
+        ],
+        "more": 0
+      },
+      {
+        "id": "Kathryn Sue Young",
+        "name": "Kathryn Sue Young",
+        "weight": 6,
+        "kind": "directed",
+        "director": "Mark Polonia",
+        "filmCount": 7,
+        "films": [
+          {
+            "title": "Children of Camp Blood",
+            "year": 2020,
+            "tconst": "tt13562408"
+          },
+          {
+            "title": "Amityville Exorcism",
+            "year": 2017,
+            "tconst": "tt6068978"
+          },
+          {
+            "title": "It Kills: Camp Blood 7",
+            "year": 2017,
+            "tconst": "tt7546024"
+          },
+          {
+            "title": "Land Shark",
+            "year": 2017,
+            "tconst": "tt6492158"
+          },
+          {
+            "title": "Sharkenstein",
+            "year": 2016,
+            "tconst": "tt5636234"
+          },
+          {
+            "title": "Amityville Death House",
+            "year": 2015,
+            "tconst": "tt4471212"
+          }
+        ],
+        "more": 0
+      },
+      {
+        "id": "Ryan Dalton",
+        "name": "Ryan Dalton",
+        "weight": 5,
+        "kind": "directed",
+        "director": "Mark Polonia",
+        "filmCount": 5,
+        "films": [
+          {
+            "title": "Cocaine Shark",
+            "year": 2023,
+            "tconst": "tt27036391"
+          },
+          {
+            "title": "Amityville in Space",
+            "year": 2022,
+            "tconst": "tt18454132"
+          },
+          {
+            "title": "Doll Shark",
+            "year": 2022,
+            "tconst": "tt22028678"
+          },
+          {
+            "title": "Noah’s Shark",
+            "year": 2021,
+            "tconst": "tt15241706"
+          },
+          {
+            "title": "Children of Camp Blood",
+            "year": 2020,
+            "tconst": "tt13562408"
+          }
+        ],
+        "more": 0
+      },
+      {
+        "id": "Kyle Rappaport",
+        "name": "Kyle Rappaport",
+        "weight": 5,
+        "kind": "directed",
+        "director": "Mark Polonia",
+        "filmCount": 11,
+        "films": [
+          {
+            "title": "Cocaine Shark",
+            "year": 2023,
+            "tconst": "tt27036391"
+          },
+          {
+            "title": "Jurassic Shark 3: Seavenge",
+            "year": 2023,
+            "tconst": "tt27036477"
+          },
+          {
+            "title": "Sharkula",
+            "year": 2022,
+            "tconst": "tt14096132"
+          },
+          {
+            "title": "Ghost of Camp Blood",
+            "year": 2018,
+            "tconst": "tt8074328"
+          },
+          {
+            "title": "It Kills: Camp Blood 7",
+            "year": 2017,
+            "tconst": "tt7546024"
+          }
+        ],
+        "more": 0
+      },
+      {
+        "id": "James Kelly",
+        "name": "James Kelly",
+        "weight": 5,
+        "kind": "directed",
+        "director": "Mark Polonia",
+        "filmCount": 6,
+        "films": [
+          {
+            "title": "Sharkula",
+            "year": 2022,
+            "tconst": "tt14096132"
+          },
+          {
+            "title": "Jurassic Shark 2: Aquapocalypse",
+            "year": 2021,
+            "tconst": "tt14873410"
+          },
+          {
+            "title": "Children of Camp Blood",
+            "year": 2020,
+            "tconst": "tt13562408"
+          },
+          {
+            "title": "Return To Splatter Farm",
+            "year": 2020,
+            "tconst": "tt12755232"
+          },
+          {
+            "title": "Mummy Shark",
+            "year": null,
+            "tconst": "tt32525522"
+          }
+        ],
+        "more": 0
+      },
+      {
+        "id": "Gale Largey",
+        "name": "Gale Largey",
+        "weight": 5,
+        "kind": "directed",
+        "director": "Mark Polonia",
+        "filmCount": 5,
+        "films": [
+          {
+            "title": "Dweller",
+            "year": 2001,
+            "tconst": "tt0385667"
+          },
+          {
+            "title": "Blood Red Planet",
+            "year": 2000,
+            "tconst": "tt0275229"
+          },
+          {
+            "title": "The House That Screamed",
+            "year": 2000,
+            "tconst": "tt0356706"
+          },
+          {
+            "title": "Feeders 2: Slay Bells",
+            "year": 1998,
+            "tconst": "tt0366436"
+          },
+          {
+            "title": "Night Crawlers",
+            "year": 1996,
+            "tconst": "tt0189804"
+          }
+        ],
+        "more": 0
+      },
+      {
+        "id": "Michael Korotitsch",
+        "name": "Michael Korotitsch",
+        "weight": 4,
+        "kind": "directed",
+        "director": "Mark Polonia",
+        "filmCount": 4,
+        "films": [
+          {
+            "title": "Yule Log",
+            "year": 2023,
+            "tconst": "tt28361249"
+          },
+          {
+            "title": "Amityville in Space",
+            "year": 2022,
+            "tconst": "tt18454132"
+          },
+          {
+            "title": "Feeders 3: The Final Meal",
+            "year": 2022,
+            "tconst": "tt13309464"
+          },
+          {
+            "title": "RIP",
+            "year": 2022,
+            "tconst": "tt17350138"
+          }
+        ],
+        "more": 0
+      }
+    ]
+  }
+}
